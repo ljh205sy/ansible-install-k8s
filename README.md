@@ -11,8 +11,8 @@
 
 下载软件包并解压/root目录：
 
-链接：https://pan.baidu.com/s/1EWnJoJjAD3GNqghOwgodWQ 
-提取码：tlvz
+链接: https://pan.baidu.com/s/1C1qFEDm1rMZZzMpVsG1O_Q 提取码: 8irn 
+
 ```
 # tar zxf binary_pkg.tar.gz
 ```
